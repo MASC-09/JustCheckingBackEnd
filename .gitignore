@@ -1,0 +1,55 @@
+## ASP.NET Core ##
+# User-specific files
+.vscode/
+.idea/
+
+# ASP.NET Core build results
+bin/
+obj/
+
+# ASP.NET Core config files
+appsettings*.json
+# Uncomment to ignore the secrets file if necessary
+# appsettings.Development.json
+
+# Build results
+project.lock.json
+project.fragment.lock.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio for Mac
+.vscode/
+
+# .NET Core Tools
+*.DotSettings
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# User-specific files
+# Windows Installer files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Rider
+.idea/
+
+# Visual Studio
+*.sln
