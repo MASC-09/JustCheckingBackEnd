@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "n8i2OAFVwATVMsvORZqPgl3jPeoap3oR89DkHT19aJY=",
+  "Source": "JustCheckingAPI",
+  "BasePath": "_content/JustCheckingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\JustCheckingDatabase.csproj",
+      "Version": 2,
+      "Source": "JustCheckingDatabase",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
