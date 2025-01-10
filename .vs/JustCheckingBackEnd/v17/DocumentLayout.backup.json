@@ -3,52 +3,52 @@
   "WorkspaceRootPath": "D:\\Code\\JustCheckingBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\controllers\\measurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\controllers\\measurementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\measurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\controllers\\userplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\controllers\\userplancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250108025728_Mig5_implementing_MealRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustCheckingDatabase\\Migrations\\20250108025728_Mig5_implementing_MealRecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\mealrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\mealrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\context\\jcdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\context\\jcdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\dayrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\dayrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\macrocardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\macrocardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\userplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\userplanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\interfaces\\imacrocardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\interfaces\\imacrocardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\userplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\userplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\macrocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\macrocard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\macrodistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\macrodistribution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\enums\\macrocardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\enums\\macrocardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250108015150_Mig4AI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustCheckingDatabase\\Migrations\\20250108015150_Mig4AI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\entities\\measurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,14 +67,6 @@
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\enums\\mealtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\interfaces\\imeasurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\interfaces\\imeasurementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\context\\jcdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\context\\jcdevdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,12 +79,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustCheckingDatabase\\Migrations\\20241227224622_MigrationV2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\migrations\\20250108025728_mig5_implementing_mealrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\migrations\\20250108025728_mig5_implementing_mealrecords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\migrations\\20250108015150_mig4ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\migrations\\20250108015150_mig4ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -102,11 +94,141 @@
       "DocumentGroups": [
         {
           "DockedHeight": 259,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeasurementController.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAcwGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:10:36.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeasurementService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MeasurementService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\MeasurementService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MeasurementService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\MeasurementService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T02:26:49.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserPlanController.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserPlanController.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\UserPlanController.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserPlanController.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\UserPlanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T03:07:33.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\UserService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\UserService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAAwBgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:15:32.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MacrocardService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MacrocardService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\MacrocardService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MacrocardService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\MacrocardService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:13:11.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IMacroCardService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T02:10:05.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserPlanService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T01:52:36.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserController.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAswEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:31:50.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JCDEVDBContext.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:49:12.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Program.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "20250108025728_Mig5_implementing_MealRecords.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250108025728_Mig5_implementing_MealRecords.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20250108025728_Mig5_implementing_MealRecords.cs",
@@ -114,12 +236,11 @@
               "RelativeToolTip": "JustCheckingDatabase\\Migrations\\20250108025728_Mig5_implementing_MealRecords.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAA1wAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:57:28.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T02:57:28.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MacrocardType.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MacrocardType.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Enums\\MacrocardType.cs",
@@ -127,12 +248,11 @@
               "RelativeToolTip": "JustCheckingDatabase\\Enums\\MacrocardType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T02:20:18.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T02:20:18.841Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 20,
               "Title": "20250108015150_Mig4AI.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250108015150_Mig4AI.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20250108015150_Mig4AI.cs",
@@ -140,99 +260,7 @@
               "RelativeToolTip": "JustCheckingDatabase\\Migrations\\20250108015150_Mig4AI.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T01:51:50.593Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MacroDistribution.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\MacroDistribution.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\MacroDistribution.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\MacroDistribution.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\MacroDistribution.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:10:58.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Macrocard.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:57:02.732Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MealRecord.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\MealRecord.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\MealRecord.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\MealRecord.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\MealRecord.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:44:32.948Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DayRecord.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\DayRecord.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\DayRecord.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\DayRecord.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\DayRecord.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:34:29.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MeasurementService.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MeasurementService.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\MeasurementService.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MeasurementService.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Services\\MeasurementService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwCcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:26:49.49Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\User.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\User.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB0AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:48:40.498Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\UserService.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserService.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Services\\UserService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwDIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T01:51:10.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T01:51:50.593Z"
             },
             {
               "$type": "Document",
@@ -244,12 +272,11 @@
               "RelativeToolTip": "JustCheckingDatabase\\Entities\\Measurement.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:20:34.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T02:20:34.794Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "UserPlan.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\UserPlan.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\UserPlan.cs",
@@ -257,8 +284,7 @@
               "RelativeToolTip": "JustCheckingDatabase\\Entities\\UserPlan.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAA7wB0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:44:15.549Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-27T22:44:15.549Z"
             },
             {
               "$type": "Document",
@@ -270,21 +296,7 @@
               "RelativeToolTip": "JustCheckingDatabase\\Enums\\MeasurementType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:37:07.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserController.cs",
-              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:31:50.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T03:37:07.932Z"
             },
             {
               "$type": "Document",
@@ -296,8 +308,7 @@
               "RelativeToolTip": "JustCheckingDatabase\\Enums\\GenderType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:18:18.075Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T03:18:18.075Z"
             },
             {
               "$type": "Document",
@@ -309,38 +320,11 @@
               "RelativeToolTip": "JustCheckingDatabase\\Enums\\MealType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:54:59.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T02:54:59.823Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "IMeasurementService.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IMeasurementService.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\Interfaces\\IMeasurementService.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IMeasurementService.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Services\\Interfaces\\IMeasurementService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T02:20:10.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "JCDEVDBContext.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T01:49:12.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
               "Title": "IUserService.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\Interfaces\\IUserService.cs",
@@ -348,12 +332,11 @@
               "RelativeToolTip": "JustCheckingDatabase\\Services\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwBYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T01:48:14.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-07T01:48:14.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "20241227224911_MigrationV3.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20241227224911_MigrationV3.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20241227224911_MigrationV3.cs",
@@ -364,7 +347,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "20241227224622_MigrationV2.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20241227224622_MigrationV2.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20241227224622_MigrationV2.cs",
@@ -372,32 +355,6 @@
               "RelativeToolTip": "JustCheckingDatabase\\Migrations\\20241227224622_MigrationV2.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T22:46:23.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\appsettings.json",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\appsettings.json",
-              "RelativeToolTip": "JustCheckingBackEnd\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-27T22:20:38.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Program.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
-              "RelativeToolTip": "JustCheckingBackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:11:37.917Z",
-              "EditorCaption": ""
             }
           ]
         }

@@ -2,6 +2,7 @@
 using JustCheckingDatabase.Context;
 using JustCheckingDatabase.Entities;
 using Microsoft.EntityFrameworkCore;
+using System.Diagnostics.Metrics;
 
 namespace JustCheckingDatabase.Services
 {
@@ -44,9 +45,9 @@ namespace JustCheckingDatabase.Services
             }
         }
 
-        public async Task DeleteMeasurementAsync(Measurement measurementUpdated)
+        public async Task DeleteMeasurementAsync(int measurementId)
         {
-            var existingMeasurement = await _dbContext.Measurements.FindAsync(measurementUpdated.Id);
+            var existingMeasurement = await _dbContext.Measurements.FindAsync(measurementId);
             if (existingMeasurement != null)
             {
 

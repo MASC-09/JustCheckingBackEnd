@@ -13,7 +13,7 @@ namespace JustCheckingDatabase.Services.Interfaces
 
         public Task PutMeasurementAsync(Measurement measurementUpdated);
 
-        public Task DeleteMeasurementAsync(Measurement measurementUpdated);
+        public Task DeleteMeasurementAsync(int measurementId);
 
 
 

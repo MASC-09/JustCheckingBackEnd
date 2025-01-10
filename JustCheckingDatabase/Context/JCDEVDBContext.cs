@@ -12,14 +12,12 @@ namespace JustCheckingDatabase.Context
 
         public DbSet<DayRecord> DayRecords { get; set; }
         public DbSet<Macrocard> Macrocards { get; set; }
+        public DbSet<MacroDistribution> MacroDistributions { get; set; }
         public DbSet<MealRecord> MealRecords{ get; set; }
         public DbSet<Measurement> Measurements { get; set; }
         public DbSet<User> Users { get; set; }
-        public DbSet<UserPlan> UsersPlan { get; set; }
-
         public DbSet<UserHistory> UserHistory { get; set; }
-
-
+        public DbSet<UserPlan> UsersPlan { get; set; }
 
     }
 }
