@@ -19,5 +19,17 @@ namespace JustCheckingDatabase.Context
         public DbSet<UserHistory> UserHistory { get; set; }
         public DbSet<UserPlan> UsersPlan { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Configure the User-Macrocard relationship
+            modelBuilder.Entity<Macrocard>()
+                .HasOne(m => m.User)
+                .WithMany()
+                .HasForeignKey(m => m.UserId)
+                .OnDelete(DeleteBehavior.Restrict); // Specify DeleteBehavior.Restrict to avoid cascade paths
+
+            base.OnModelCreating(modelBuilder);
+        }
+
     }
 }

@@ -5,6 +5,7 @@ namespace JustCheckingDatabase.Services.Interfaces
     {
         public Task<List<Macrocard>> GetAllMacrocardsAsync();
         public Task<Macrocard> GetMacrocardAsync(int macrocardId);
+        public Task<List<Macrocard>> GetUserMacrocarsdAsync(int userId);
         public Task PostMacrocardAsync(Macrocard newMacrocard);
         public Task PutMacrocardAsync(Macrocard updatedMacrocard);
         public Task DeleteMacrocardAsync(int macrocardId);

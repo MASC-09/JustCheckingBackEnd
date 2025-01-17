@@ -15,6 +15,7 @@ namespace JustCheckingAPI.Controllers
             _userService = userService;
         }
 
+        //get all users
         [HttpGet]
         public async Task<IActionResult> GetUsers()
         {
@@ -22,6 +23,8 @@ namespace JustCheckingAPI.Controllers
             return Ok(users);
         }
 
+
+        //get a single user
         [HttpGet("{userId}")]
         public async Task<IActionResult> GetUser(int userId)
         {
@@ -33,13 +36,15 @@ namespace JustCheckingAPI.Controllers
             return Ok(user);
         }
 
+        //create a new user
         [HttpPost]
         public async Task<IActionResult> PostUser([FromBody] User newUser)
         {
             await _userService.PostUserAsync(newUser);
             return CreatedAtAction(nameof(GetUser), new { userId = newUser.Id }, newUser);
         }
-
+        
+        //update a user
         [HttpPut("{userId}")]
         public async Task<IActionResult> PutUser(int userId, [FromBody] User updatedUser)
         {
@@ -53,6 +58,7 @@ namespace JustCheckingAPI.Controllers
             return NoContent();
         }
 
+        //delete a user
         [HttpDelete("{userId}")]
         public async Task<IActionResult> DeleteUser(int userId)
         {

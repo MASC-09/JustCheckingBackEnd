@@ -4,6 +4,7 @@ using JustCheckingDatabase.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace JustCheckingDatabase.Migrations
 {
     [DbContext(typeof(JCDEVDBContext))]
-    partial class JCDEVDBContextModelSnapshot : ModelSnapshot
+    [Migration("20250117022612_mig6_macrocardFix")]
+    partial class mig6_macrocardFix
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

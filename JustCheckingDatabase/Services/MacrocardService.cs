@@ -18,23 +18,38 @@ namespace JustCheckingDatabase.Services
         }
 
         //Member methods
+
+        //get every macro card
         public async Task<List<Macrocard>> GetAllMacrocardsAsync()
         { 
             return await _dbContext.Macrocards.ToListAsync();
         }
 
+        //Get a single macro card associated with macrocardID
         public async Task<Macrocard> GetMacrocardAsync(int macrocardId)
         {
             return await _dbContext.Macrocards.FindAsync(macrocardId);
             
         }
 
+        // Get all the macrocards associated with a user.
+        public async Task<List<Macrocard>> GetUserMacrocarsdAsync(int userId)
+        {
+            // validate user exists
+            return await _dbContext.Set<Macrocard>()
+                .Where(macrocard => macrocard.UserId == userId)
+                .ToListAsync();
+        }
+
+        //create a new macrocard
         public async Task PostMacrocardAsync(Macrocard newMacrocard)
         {
             await _dbContext.Macrocards.AddAsync(newMacrocard);
             await _dbContext.SaveChangesAsync();
         }
 
+
+        //Update a macrocard
         public async Task PutMacrocardAsync(Macrocard updatedMacrocard)
         {
             var existingMacrocard= await _dbContext.Macrocards.FindAsync(updatedMacrocard.Id);
@@ -45,6 +60,7 @@ namespace JustCheckingDatabase.Services
             }
         }
 
+        //delete a macrocard
         public async Task DeleteMacrocardAsync(int macrocardId)
         {
             var existingMacrocard = await _dbContext.Macrocards.FindAsync(macrocardId);

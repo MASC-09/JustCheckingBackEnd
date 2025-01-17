@@ -16,13 +16,15 @@ namespace JustCheckingDatabase.Services
             _dbContext = JCDB_Context;
         }
 
+        //returns a list of all the plans associated with a user.
         public async Task<List<UserPlan>> GetAllUserPlansAsync(int userId)
         {
-            return await _dbContext.Set<UserPlan>()
-                .Where(up => up.UserId == userId)
-                .ToListAsync();
+                return await _dbContext.Set<UserPlan>()
+                    .Where(up => up.UserId == userId)
+                    .ToListAsync();
         }
 
+        //returns a single plan associated with a user.
         public async Task<UserPlan> GetUserPlanAsync(int userPlanId)
         {
             var userPlan = await _dbContext.Set<UserPlan>()
@@ -34,12 +36,15 @@ namespace JustCheckingDatabase.Services
             return userPlan;
         }
 
+        //create a new user plan
         public async Task PostNewUserPlanAsync(UserPlan newUserPlan)
         {
             await _dbContext.Set<UserPlan>().AddAsync(newUserPlan);
             await _dbContext.SaveChangesAsync();
         }
 
+
+        //update a user plan
         public async Task PutUserPlanAsync(UserPlan userPlanUpdated)
         {
             var existingUserPlan = await _dbContext.Set<UserPlan>()
@@ -52,6 +57,8 @@ namespace JustCheckingDatabase.Services
             await _dbContext.SaveChangesAsync();
         }
 
+
+        //delete a user plan
         public async Task DeleteUserPlanAsync(int userPlanId)
         {
             var userPlan = await _dbContext.Set<UserPlan>()

@@ -54,3 +54,4 @@ ehthumbs.db
 # Visual Studio
 *.sln
 *.vsidx
+*dtbcache.v2
