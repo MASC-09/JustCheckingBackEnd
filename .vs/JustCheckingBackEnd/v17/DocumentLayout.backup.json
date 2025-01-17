@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\Code\\JustCheckingBackEnd\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\enums\\measurementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\enums\\measurementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -47,16 +55,8 @@
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\services\\interfaces\\imacrocardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|d:\\code\\justcheckingbackend\\justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B25980A6-1273-4243-AC3C-E37E3434FAAE}|JustCheckingBackEnd\\JustCheckingAPI.csproj|solutionrelative:justcheckingbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\enums\\macrocardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\enums\\macrocardtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\enums\\measurementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|solutionrelative:justcheckingdatabase\\enums\\measurementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4237BB2E-9A68-40FF-866B-07FCB99FC38C}|JustCheckingDatabase\\JustCheckingDatabase.csproj|d:\\code\\justcheckingbackend\\justcheckingdatabase\\enums\\gendertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,24 +94,102 @@
       "DocumentGroups": [
         {
           "DockedHeight": 259,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250117022612_mig6_macrocardFix.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "UserPlanService.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Services\\UserPlanService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T02:26:12.198Z",
+              "WhenOpened": "2025-01-17T01:37:19.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MeasurementController.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwB8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:00:09.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MacroCardController.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T02:51:33.976Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "JCDEVDBContext.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwBwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T01:49:12.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeasurementType.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MeasurementType.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Enums\\MeasurementType.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MeasurementType.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Enums\\MeasurementType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:37:07.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Program.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
+              "RelativeToolTip": "JustCheckingBackEnd\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T22:11:37.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Macrocard.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\Macrocard.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Entities\\Macrocard.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T01:40:31.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MealRecord.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\MealRecord.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\MealRecord.cs",
@@ -125,71 +203,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Macrocard.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Entities\\Macrocard.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBQAAAAbAAAAAAAAAA==",
+              "Title": "20250117022612_mig6_macrocardFix.cs",
+              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
+              "RelativeDocumentMoniker": "JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
+              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
+              "RelativeToolTip": "JustCheckingDatabase\\Migrations\\20250117022612_mig6_macrocardFix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T01:40:31.097Z",
+              "WhenOpened": "2025-01-17T02:26:12.198Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserPlanService.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\UserPlanService.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\UserPlanService.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Services\\UserPlanService.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAIwDwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T01:37:19.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MeasurementController.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
-              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\MeasurementController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwB8AAABZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T03:00:09.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MacroCardController.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
-              "RelativeToolTip": "JustCheckingBackEnd\\Controllers\\MacroCardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T02:51:33.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "JCDEVDBContext.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Context\\JCDEVDBContext.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwBwAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T01:49:12.412Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "MacrocardService.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\MacrocardService.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\MacrocardService.cs",
@@ -202,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "JustCheckingBackEnd\\Controllers\\UserController.cs",
@@ -215,7 +241,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "IMacroCardService.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Services\\Interfaces\\IMacroCardService.cs",
@@ -228,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "UserPlan.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Entities\\UserPlan.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Entities\\UserPlan.cs",
@@ -237,19 +263,6 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-27T22:44:15.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "JustCheckingBackEnd\\Program.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingBackEnd\\Program.cs",
-              "RelativeToolTip": "JustCheckingBackEnd\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-27T22:11:37.917Z",
               "EditorCaption": ""
             },
             {
@@ -266,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "MacrocardType.cs",
               "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MacrocardType.cs",
               "RelativeDocumentMoniker": "JustCheckingDatabase\\Enums\\MacrocardType.cs",
@@ -287,18 +300,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-08T01:51:50.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MeasurementType.cs",
-              "DocumentMoniker": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MeasurementType.cs",
-              "RelativeDocumentMoniker": "JustCheckingDatabase\\Enums\\MeasurementType.cs",
-              "ToolTip": "D:\\Code\\JustCheckingBackEnd\\JustCheckingDatabase\\Enums\\MeasurementType.cs",
-              "RelativeToolTip": "JustCheckingDatabase\\Enums\\MeasurementType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-07T03:37:07.932Z"
             },
             {
               "$type": "Document",

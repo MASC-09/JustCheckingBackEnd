@@ -15,6 +15,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<JCDEVDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("JCDEV")));
 
 builder.Services.AddScoped<IUserService, UserService>();
+builder.Services.AddScoped<IMeasurementService, MeasurementService>();
+builder.Services.AddScoped<IUserPlanService, UserPlanService>();
+builder.Services.AddScoped<IMacroCardService, MacrocardService>();
+
+
 
 
 var app = builder.Build();
